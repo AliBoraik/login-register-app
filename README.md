@@ -2,6 +2,6 @@
  Login and register Form Example in Kotlin Android
 
 <p float="left">
- <img src="/login.png" alt="Alt text" title="Optional title">
- <img src="/register.png" alt="Alt text" title="Optional title">
+ <img src="/login.png" width="400">
+ <img src="/register.png" width="400">
 </p>
